@@ -74,12 +74,12 @@ confirm your last commit message here
     git push origin <task_branch>
   ```
 
-[!CAUTION]
-What to test before push your code -code level check
-
-- a. code is working properly
-- b. code functionality is compeletely working on local
-- c. add screenshots in pull request of task to story
+> [!IMPORTANT]
+  > What to test before push your code -code level check
+  >
+  > - a. code is working properly
+  > - b. code functionality is compeletely working on local
+  > - c. add screenshots in pull request of task to story
 
   2.4. test your fork branch on github to verify code successfully merged or not
   on gitub
